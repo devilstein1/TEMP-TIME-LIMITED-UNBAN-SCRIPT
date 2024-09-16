@@ -1,3 +1,6 @@
+import time
+print('This is a TOTALLY FREE FILE SOME PEOPLE LIKE @Endxgod Are selling it for money which is totally UNFAITHFUL. This Is a Free FIle FOr Everyone. FILE WILL START AFTER 6 seconds')
+time.sleep(7)
 # Copyright STEIN
 __author__ = "stein"
 __instagram__ = "stein.network"
